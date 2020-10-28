@@ -1,0 +1,38 @@
+body {
+    background-color: lightgray;
+    font-family: sans-serif;
+    margin: 2%;
+}
+
+h1, header {
+    text-align: center;
+}
+
+a {
+    color : orangered;
+}
+
+div {
+    border : 6px solid darkgreen;
+    padding: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+img {
+    border : 4px solid black;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.foodIpsum {
+    background-color: darkgreen;
+    color : white;
+}
+
+#credit {
+    text-align: center;
+}
+
+
